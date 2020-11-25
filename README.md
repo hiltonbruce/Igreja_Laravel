@@ -1,3 +1,21 @@
+# Eliú - Administração de Igrejas Evangélicas
+
+#### Atualização da versão em PHP 5.6 - [Igreja](https://github.com/hiltonbruce/Igreja)
+
+## Implementações
+
+- Estrutura - Framework Laravel  (**Realizado**)
+- Cadastro de Membros  (**Não Realizado**)
+- Controle de Disciplinas (**Não Realizado**)
+- Cartas de Recomendação, Mudança e em Trânsito (**Não Realizado**)
+- Certidões de Batismo e Apresentação de Crianças (**Não Realizado**)
+- Agenda Executiva (**Não Realizado**)
+- Dízimo e Ofertas - Entradas (**Não Realizado**)
+- Controle Financeiro (**Não Realizado**)
+- Plano de Contas (**Não Realizado**)
+- Recibos de Pagamento (**Não Realizado**)
+- Agenda Financeira (**Não Realizado**)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
