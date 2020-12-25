@@ -5,6 +5,7 @@
 ## Implementações
 
 - Estrutura - Framework Laravel  (**Realizado**)
+- Template - AdminLTE  (**Não Realizado**)
 - Cadastro de Membros  (**Não Realizado**)
 - Controle de Disciplinas (**Não Realizado**)
 - Cartas de Recomendação, Mudança e em Trânsito (**Não Realizado**)
